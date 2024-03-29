@@ -87,8 +87,8 @@ public class tugasmodul4 {
                         break;
                     }
                 }
-            } while (pilihan != 9);
-
+            }while (pilihan != 9);
+            
             scanner.close();
         }
     }
